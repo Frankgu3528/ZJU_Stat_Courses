@@ -13,4 +13,8 @@
 | [控制论](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E6%8E%A7%E5%88%B6%E8%AE%BA) | 2023/6/22 |
 | [统计学习](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0) | 2023/6/23 |
 | [优化实用算法](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E4%BC%98%E5%8C%96%E5%AE%9E%E7%94%A8%E7%AE%97%E6%B3%95) | 2023/6/27 |
+| [随机过程](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B) | 2023/6/29 |
+| [数理统计](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) | 2023/6/29 |
+| [人工神经网络](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | 2023/6/29 |
 
+#### 这里是@frankgu上完的一些课程的资料和自己的作业，仅供参考，希望能帮到一些人
