@@ -16,5 +16,9 @@
 | [随机过程](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B) | 2023/6/29 |
 | [数理统计](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) | 2023/6/29 |
 | [人工神经网络](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | 2023/6/29 |
+| [面向对象程序设计](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | 2023/7/2 |
+| [微观经济学](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6) | 2023/7/2 |
+
+
 
 #### 这里是@frankgu上完的一些课程的资料和自己的作业，仅供参考，希望能帮到一些人
