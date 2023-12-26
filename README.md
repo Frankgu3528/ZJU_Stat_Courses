@@ -1,6 +1,4 @@
 # ZJU_Stat_Courses
-一些ZJU统计本科生的资料
-
 持续更新中，欢迎给个⭐
 
 
@@ -19,6 +17,4 @@
 | [面向对象程序设计](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | 2023/7/2 |
 | [微观经济学](https://github.com/ZJU-FrankGu/ZJU_Stat_Courses/tree/main/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6) | 2023/7/2 |
 
-
-
-#### 这里是@frankgu上完的一些课程的资料和自己的作业，仅供参考，希望能帮到一些人
+2023fall's course：coming soon!

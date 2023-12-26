@@ -1,7 +1,5 @@
 # hw1
 
-###### 顾格非 3210103528
-
 ### 1.
 
 **P**值表明，TV和radio的系数估计值是显著不为0的，说明在TV，radio和newspaper都投放广告时，TV和radio对销售有正向影响，而newspaper对销售没有什么影响。
